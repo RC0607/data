@@ -49,10 +49,10 @@
       "title": "Earl of Langford",
       "house_name": "House Thornbury of Langford"
     },
-    "Ashcombe": {
+    "Conville": {
       "rank": "Dukedom",
       "title": "Duke of Bambridge",
-      "house_name": "House Ashcombe of Bambridge"
+      "house_name": "House Conville of Bambridge"
     },
     "Mayford": {
       "rank": "Royal Dukedom",
@@ -79,12 +79,12 @@
           "full_name": "Lord Edward Fetherstonhaugh",
           "birth_year": 1971,
           "spouse": {
-            "full_name": "Lady Catherine Ashcombe",
+            "full_name": "Lady Catherine Conville",
             "birth_year": 1974,
-            "house_name": "House Ashcombe of Bambridge",
+            "house_name": "House Conville of Bambridge",
             "note": "By marriage styled Catherine Fetherstonhaugh"
           },
-          "marriage_note": "m. Catherine (House Ashcombe of Bambridge)"
+          "marriage_note": "m. Catherine (House Conville of Bambridge)"
         },
         {
           "full_name": "Lord Patrick Fetherstonhaugh",
@@ -231,7 +231,7 @@
           }
         },
         {
-          "full_name": "Prince Septimus of Valemont",
+          "full_name": "Prince Sumulton of Valemont",
           "birth_year": 1949,
           "title": "Prince; later Duke of Chesterfield"
         }
@@ -251,7 +251,7 @@
           "full_name": "Princess Grainger of Valemont",
           "birth_year": 1980,
           "spouse": {
-            "full_name": "Earl of Anson, Percival Montfort",
+            "full_name": "Earl Anson of Percival Montfort",
             "birth_year": 1978,
             "house_name": "House Montfort of Anson"
           }
@@ -386,28 +386,28 @@
         }
       ]
     },
-    "Ashcombe_Family_Dukedom_of_Bambridge": {
+    "Conville_Family_Dukedom_of_Bambridge": {
       "generation_1": [
         {
-          "full_name": "Lord Everard Ashcombe",
+          "full_name": "Lord Anthony Conville",
           "birth_year": 1946,
           "spouse": {
-            "full_name": "Lady Honoria Ashcombe",
+            "full_name": "Lady Honoria Conville",
             "birth_year": 1947
           }
         }
       ],
       "generation_2": [
         {
-          "full_name": "Lord Algernon Ashcombe",
+          "full_name": "Lord Alexander Conville",
           "birth_year": 1972,
           "spouse": {
-            "full_name": "Lady Euphemia Ashcombe",
+            "full_name": "Lady Patricia Conville",
             "birth_year": 1973
           }
         },
         {
-          "full_name": "Lady Catherine Ashcombe",
+          "full_name": "Lady Catherine Conville",
           "birth_year": 1974,
           "spouse": {
             "full_name": "Lord Edward Fetherstonhaugh",
@@ -416,11 +416,11 @@
           "marriage_note": "By marriage styled Catherine Fetherstonhaugh"
         },
         {
-          "full_name": "Lord Hugo Ashcombe",
+          "full_name": "Lord Hugo Conville",
           "birth_year": 1977,
           
           "spouse": {
-            "full_name": "Lady Leander Ashcombe",
+            "full_name": "Lady Leander Conville",
             "birth_year": 1975,
             "gender_note": "Male (as specified)"
           }
@@ -428,18 +428,18 @@
       ],
       "generation_3": [
         {
-          "full_name": "Lord Tristan Ashcombe",
+          "full_name": "Lord David Conville",
           "birth_year": 1998,
           "spouse": {
-            "full_name": "Lady Mirabel Ashcombe",
+            "full_name": "Lady Mirabel Conville",
             "birth_year": 2000
           }
         },
         {
-          "full_name": "Lord Gideon Ashcombe",
+          "full_name": "Lord Gideon Conville",
           "birth_year": 2004,
           "spouse": {
-            "full_name": "Lady Sabina Ashcombe",
+            "full_name": "Lady Sabina Conville",
             "birth_year": 2004
           }
         }
