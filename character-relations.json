@@ -120,6 +120,7 @@
         ]
       }
     },
+
     "Hatherleigh_Family_Earldom_of_Claveron": {
       "generation_1": [
         {
@@ -334,10 +335,10 @@
     "Galenford_Family": {
       "generation_1": [
         {
-          "full_name": "Mr. Martin Galenford",
+          "full_name": "Mr Martin Galenford",
           "birth_year": 1948,
           "spouse": {
-            "full_name": "Mrs. Lavinia Galenford",
+            "full_name": "Mrs Lavinia Galenford",
             "birth_year": 1948
           }
         }
@@ -348,7 +349,7 @@
           "birth_year": 1971,
           "honour": "Sir (Knighted)",
           "spouse": {
-            "full_name": "Lady Ottilie Galenford",
+            "full_name": "Lady Veronica Galenford",
             "birth_year": 1971
           }
         }
@@ -358,7 +359,7 @@
           "full_name": "Lady Carlos Galenford",
           "birth_year": 1999,
           "spouse": {
-            "full_name": "Surmont Fetherstonhaugh",
+            "full_name": "Lord Surmont Fetherstonhaugh",
             "birth_year": 1999
           }
         }
