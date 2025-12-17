@@ -1,0 +1,605 @@
+{
+  "relationships": {
+    "James Montgomery (Duke of Montgomery)": {
+      "Family": [
+        "Duchess Helena Montgomery (late wife)",
+        "John Hector Wilcox (brother-in-law)",
+        "Charles Benjamin Montgomery (Haterleigh) (younger brother)",
+        "Edward Montgomery (son)",
+        "Catherine Fetherstonhaugh (daughter-in-law)",
+        "Patrick Montgomery (son)",
+        "Caroline Fetherstonhaugh (daughter-in-law)",
+        "Lieutenant Gen. Franklin Haterleigh (nephew)",
+        "Lord Surmont (grandson)",
+        "Lady Hilda Montgomery (granddaughter)",
+        "Diana Montgomery (granddaughter)",
+        "Daniel Haterleigh (grandnephew)"
+      ],
+      "Allies": [
+        "John Hector Wilcox",
+        "Duchess Helena Montgomery",
+        "Sir Henry Galenford"
+      ],
+      "Oppositions": [
+        "Charles Benjamin Montgomery (Haterleigh)",
+        "Sir Marcus Whitmore",
+        "Dr. Amelia Thornbury",
+        "William Harper, KC",
+        "Jordan Baptiste",
+        "Tom Mitchell",
+        "Alexandra \"Alex\" Vanderbilt"
+      ]
+    },
+    "John Hector Wilcox": {
+      "Family": [
+        "Duchess Helena Montgomery (late sister-in-law)",
+        "James Montgomery (brother-in-law)"
+      ],
+      "Allies": [
+        "James Montgomery",
+        "Duchess Helena Montgomery",
+        "Steven Galenford",
+        "Lieutenant Gen. Franklin Haterleigh",
+        "Minister of Internal Affairs",
+        "Edward Montgomery",
+        "Daniel Haterleigh"
+      ],
+      "Oppositions": [
+        "Charles Benjamin Montgomery (Haterleigh)",
+        "Edmond Williamson, Viscount of Williamson",
+        "Jordan Baptiste",
+        "William Harper, KC"
+      ]
+    },
+    "Edward Montgomery": {
+      "Family": [
+        "James Montgomery (father)",
+        "Duchess Helena Montgomery (mother)",
+        "Patrick Montgomery (brother)",
+        "Countess of Bredmontan (wife)",
+        "Lady Hilda Montgomery (daughter)",
+        "Lord Surmont (son)",
+        "Charles Benjamin Montgomery (Haterleigh) (uncle)",
+        "Diana Montgomery (niece)"
+      ],
+      "Allies": [
+        "Patrick Montgomery",
+        "Lieutenant Gen. Franklin Haterleigh",
+        "John Hector Wilcox"
+      ],
+      "Oppositions": [
+        "Dr. Amelia Thornbury",
+        "William Harper, KC",
+        "Tom Mitchell"
+      ]
+    },
+    "Patrick Montgomery": {
+      "Family": [
+        "James Montgomery (father)",
+        "Duchess Helena Montgomery (mother)",
+        "Edward Montgomery (brother)",
+        "Claire Somerville (wife)",
+        "Diana Montgomery (daughter)",
+        "Charles Benjamin Montgomery (Haterleigh) (uncle)",
+        "Lady Hilda Montgomery (niece)",
+        "Lord Surmont (nephew)"
+      ],
+      "Allies": [
+        "Edward Montgomery",
+        "Lysander Worthington"
+      ],
+      "Oppositions": [
+        "Dr. Amelia Thornbury",
+        "Tom Mitchell",
+        "Prince Adelford of Hyland"
+      ]
+    },
+    "Charles Benjamin Montgomery (Haterleigh)": {
+      "Family": [
+        "James Montgomery (elder brother)",
+        "Lieutenant Gen. Franklin Haterleigh (son)",
+        "Daniel Haterleigh (grandson)"
+      ],
+      "Allies": [
+        "James Montgomery"
+      ],
+      "Oppositions": [
+        "James Montgomery",
+        "John Hector Wilcox",
+        "Duchess Helena Montgomery",
+        "William Harper, KC",
+        "Brigadier General Sarah Lynch"
+      ]
+    },
+    "Lieutenant Gen. Franklin Haterleigh": {
+      "Family": [
+        "Charles Benjamin Montgomery (Haterleigh) (father)",
+        "Catherine Bambridge (wife)",
+        "Lady Grainger (Daniel's mother)",
+        "Daniel Haterleigh (son)"
+      ],
+      "Allies": [
+        "ADMF Edward Hilson",
+        "John Hector Wilcox",
+        "Edward Montgomery"
+      ],
+      "Oppositions": [
+        "Brigadier General Sarah Lynch"
+      ]
+    },
+    "Lord Surmont": {
+      "Family": [
+        "Edward Montgomery (father)",
+        "Countess of Bredmontan (mother)",
+        "James Montgomery (grandfather)",
+        "Lady Hilda Montgomery (sister)",
+        "Diana Montgomery (cousin)",
+        "Lady Carlos Galenford (wife)"
+      ],
+      "Allies": [
+        "Diana Montgomery"
+      ],
+      "Oppositions": [
+        "Dr. Elizabeth Wright",
+        "Priscilla Pemberton"
+      ],
+      "Love Interest": [
+        "Lady Carlos Galenford (wife)",
+        "Priscilla Pemberton (ex-girlfriend)",
+        "Dr. Elizabeth Wright (strategic)"
+      ]
+    },
+    "Lady Hilda Montgomery": {
+      "Family": [
+        "Edward Montgomery (father)",
+        "Countess of Bredmontan (mother)",
+        "James Montgomery (grandfather)",
+        "Lord Surmont (brother)",
+        "Diana Montgomery (cousin)"
+      ],
+      "Allies": [
+        "Diana Montgomery",
+        "Daniel Haterleigh"
+      ],
+      "Oppositions": [
+        "Victoria Kellner",
+        "Priscilla Pemberton",
+        "Alexandra \"Alex\" Vanderbilt",
+        "Lysander Worthington"
+      ],
+      "Love Interest": [
+        "Prince Adelford of Hyland (lover)",
+        "Lysander Worthington (involved)"
+      ]
+    },
+    "Diana Montgomery": {
+      "Family": [
+        "Patrick Montgomery (father)",
+        "Claire Somerville (mother)",
+        "James Montgomery (grandfather)",
+        "Lady Hilda Montgomery (cousin)",
+        "Lord Surmont (cousin)"
+      ],
+      "Allies": [
+        "Lady Hilda Montgomery",
+        "Arthur Blackwood",
+        "Lord Surmont",
+        "Daniel Haterleigh"
+      ],
+      "Oppositions": [
+        "Arthur Blackwood"
+      ],
+      "Love Interest": [
+        "Arthur Blackwood (candidate)",
+        "Prince Adelford of Hyland (pursued by)"
+      ]
+    },
+    "Lieutenant Daniel Haterleigh": {
+      "Family": [
+        "Lieutenant Gen. Franklin Haterleigh (father)",
+        "Lady Grainger (mother)",
+        "Catherine Bambridge (step-mother/father's wife)",
+        "Charles Benjamin Montgomery (Haterleigh) (grandfather)",
+        "Edward Montgomery (uncle)"
+      ],
+      "Allies": [
+        "Dr. Amelia Thornbury",
+        "Lady Hilda Montgomery",
+        "John Hector Wilcox",
+        "Diana Montgomery"
+      ],
+      "Oppositions": [
+        "Sir Marcus Whitmore",
+        "Priscilla Pemberton",
+        "Brigadier General Sarah Lynch"
+      ],
+      "Love Interest": [
+        "Priscilla Pemberton (dating)"
+      ]
+    },
+    "Sir Henry Galenford": {
+      "Family": [
+        "Steven Galenford (father)",
+        "Maria Harrington (deceased wife)",
+        "Lady Carlos Galenford (daughter)",
+        "Grace Galenford (daughter)"
+      ],
+      "Allies": [
+        "James Montgomery",
+        "Dr. Lucas"
+      ],
+      "Oppositions": [
+        "Dr. Richard Patel-Harrington"
+      ]
+    },
+    "Steven Galenford ('The Lion')": {
+      "Family": [
+        "Sir Henry Galenford (son)",
+        "Lady Keith (wife, deceased)"
+      ],
+      "Allies": [
+        "John Hector Wilcox",
+        "Sir Geoffrey Harding"
+      ],
+      "Oppositions": [
+        "Edmond Williamson, Viscount of Williamson",
+        "Dr. Richard Patel-Harrington"
+      ],
+      "Love Interest": [
+        "Lady Keith (wife, deceased)"
+      ]
+    },
+    "Lady Carlos Galenford": {
+      "Family": [
+        "Sir Henry Galenford (father)",
+        "Maria Harrington (deceased mother)",
+        "Grace Galenford (identical twin sister)",
+        "Lord Surmont (husband)"
+      ],
+      "Allies": [
+        "Grace Galenford",
+        "Noris Douglus"
+      ],
+      "Oppositions": [],
+      "Love Interest": [
+        "Lord Surmont (husband)"
+      ]
+    },
+    "Grace Galenford (Lucas)": {
+      "Family": [
+        "Sir Henry Galenford (biological father)",
+        "Maria Harrington (deceased mother)",
+        "Lady Carlos Galenford (identical twin sister)",
+        "Dr. Lucas (adoptive father/guardian)"
+      ],
+      "Allies": [
+        "Noris Douglus",
+        "Lady Carlos Galenford"
+      ],
+      "Oppositions": [
+        "Victoria Kellner",
+        "Arthur Blackwood"
+      ],
+      "Love Interest": [
+        "Noris Douglus (lover)"
+      ]
+    },
+    "Noris Douglus": {
+      "Family": [],
+      "Allies": [
+        "Grace Galenford",
+        "Lady Carlos Galenford",
+        "Sir Geoffrey Harding"
+      ],
+      "Oppositions": [
+        "Victoria Kellner"
+      ],
+      "Love Interest": [
+        "Grace Galenford (lover)"
+      ]
+    },
+    "Dr. Amelia Thornbury": {
+      "Family": [],
+      "Allies": [
+        "Dr. Elizabeth Wright",
+        "Daniel Haterleigh",
+        "Priscilla Pemberton"
+      ],
+      "Oppositions": [
+        "Edward Montgomery",
+        "Patrick Montgomery"
+      ]
+    },
+    "Sir Marcus Whitmore": {
+      "Family": [],
+      "Allies": [
+        "Victoria Kellner",
+        "Dr. Elizabeth Wright",
+        "Tom Mitchell",
+        "Brigadier General Sarah Lynch"
+      ],
+      "Oppositions": [
+        "Montgomery family",
+        "Daniel Haterleigh",
+        "Lieutenant Gen. Franklin Haterleigh"
+      ],
+      "Love Interest": [
+        "Victoria Kellner (relationship/alliance)"
+      ]
+    },
+    "Victoria Kellner": {
+      "Family": [],
+      "Allies": [
+        "Sir Marcus Whitmore",
+        "Dr. Elizabeth Wright",
+        "Jordan Baptiste",
+        "Dr. Amelia Thornbury",
+        "Priscilla Pemberton"
+      ],
+      "Oppositions": [
+        "Montgomery family",
+        "Lady Hilda Montgomery",
+        "Grace Galenford",
+        "Noris Douglus",
+        "Prince Adelford of Hyland",
+        "Pigeon News Agency"
+      ],
+      "Love Interest": [
+        "Sir Marcus Whitmore (relationship/alliance)"
+      ]
+    },
+    "Dr. Elizabeth Wright": {
+      "Family": [],
+      "Allies": [
+        "Dr. Amelia Thornbury",
+        "Victoria Kellner",
+        "Sir Marcus Whitmore",
+        "Jordan Baptiste",
+        "Arthur Blackwood",
+        "Priscilla Pemberton"
+      ],
+      "Oppositions": [
+        "Montgomery family",
+        "ATARX Group",
+        "Lord Surmont"
+      ],
+      "Love Interest": [
+        "Lord Surmont (strategic/conflicted)"
+      ]
+    },
+    "Priscilla Pemberton": {
+      "Family": [],
+      "Allies": [
+        "Daniel Haterleigh",
+        "Alexandra \"Alex\" Vanderbilt",
+        "Dr. Amelia Thornbury",
+        "Arthur Blackwood",
+        "Sir Marcus Whitmore",
+        "Brigadier General Sarah Lynch"
+      ],
+      "Oppositions": [
+        "Montgomery family",
+        "Tetra-Noctile",
+        "Lord Surmont",
+        "Patrick Montgomery",
+        "Lady Hilda Montgomery",
+        "Brigadier General Sarah Lynch"
+      ],
+      "Love Interest": [
+        "Daniel Haterleigh (dating)",
+        "Lord Surmont (ex-boyfriend)"
+      ]
+    },
+    "Brigadier General Sarah Lynch": {
+      "Family": [],
+      "Allies": [
+        "Sir Marcus Whitmore",
+        "Minister of Internal Affairs",
+        "John Hector Wilcox",
+        "Lieutenant Gen. Franklin Haterleigh",
+        "Dr. Amelia Thornbury",
+        "Priscilla Pemberton"
+      ],
+      "Oppositions": [
+        "Lieutenant Gen. Franklin Haterleigh",
+        "ATARX Group",
+        "Montgomery family",
+        "Priscilla Pemberton"
+      ]
+    },
+    "Lysander Worthington": {
+      "Family": [],
+      "Allies": [
+        "Patrick Montgomery"
+      ],
+      "Oppositions": [
+        "Montgomery empire",
+        "Edward Montgomery",
+        "Patrick Montgomery"
+      ],
+      "Love Interest": [
+        "Lady Hilda Montgomery (involved)"
+      ]
+    },
+    "Arthur Blackwood": {
+      "Family": [],
+      "Allies": [
+        "Diana Montgomery",
+        "Jordan Baptiste",
+        "Dr. Elizabeth Wright",
+        "Dr. Amelia Thornbury",
+        "Priscilla Pemberton"
+      ],
+      "Oppositions": [
+        "Montgomery family",
+        "Diana Montgomery"
+      ],
+      "Love Interest": [
+        "Diana Montgomery (candidate)",
+        "Grace Galenford (pursuing)"
+      ]
+    },
+    "Prince Adelford of Hyland": {
+      "Family": [
+        "King Edward II (father)",
+        "Crown Prince (brother)"
+      ],
+      "Allies": [
+        "Lady Hilda Montgomery",
+        "Diana Montgomery"
+      ],
+      "Oppositions": [
+        "Crown Prince (brother)",
+        "Victoria Kellner",
+        "TruthSphere"
+      ],
+      "Love Interest": [
+        "Lady Hilda Montgomery (lover)",
+        "Diana Montgomery (pursued first)"
+      ]
+    },
+    "King Edward II": {
+      "Family": [
+        "Queen ELucasa of Fourden(wife)",
+        "Prince Adelford of Hyland (son)",
+        "Crown Prince (son)"
+      ],
+      "Allies": [],
+      "Oppositions": []
+    },
+    "Alexandra \"Alex\" Vanderbilt": {
+      "Family": [],
+      "Allies": [
+        "Priscilla Pemberton"
+      ],
+      "Oppositions": [
+        "Montgomery family",
+        "Lady Hilda Montgomery"
+      ]
+    },
+    "Dr. Richard Patel-Harrington": {
+      "Family": [],
+      "Allies": [
+        "Former R&H employees"
+      ],
+      "Oppositions": [
+        "R&H Corporation",
+        "Sir Henry Galenford",
+        "Steven Galenford"
+      ]
+    },
+    "William Harper, KC": {
+      "Family": [],
+      "Allies": [],
+      "Oppositions": [
+        "Montgomery subsidiaries",
+        "Charles Benjamin Montgomery (Haterleigh)",
+        "Edward Montgomery"
+      ]
+    },
+    "Jordan Baptiste": {
+      "Family": [],
+      "Allies": [
+        "Arthur Blackwood"
+      ],
+      "Oppositions": [
+        "Pigeon News Agency",
+        "Montgomery family",
+        "John Hector Wilcox"
+      ]
+    },
+    "Tom Mitchell": {
+      "Family": [],
+      "Allies": [
+        "Sir Marcus Whitmore",
+        "United Workers Federation"
+      ],
+      "Oppositions": [
+        "Montgomery-owned companies",
+        "Tetra-Noctile",
+        "Edward Montgomery",
+        "Patrick Montgomery"
+      ]
+    },
+    "Duchess Helena Montgomery": {
+      "Family": [
+        "James Montgomery (husband)",
+        "John Hector Wilcox (brother-in-law)",
+        "Edward Montgomery (son)",
+        "Patrick Montgomery (son)"
+      ],
+      "Allies": [
+        "James Montgomery",
+        "John Hector Wilcox"
+      ],
+      "Oppositions": [
+      ]
+    },
+    "Claire Somerville": {
+      "Family": [
+        "James Montgomery (father-in-law)",
+        "Patrick Montgomery (husband)",
+        "Diana Montgomery (daughter)"
+      ],
+      "Allies": [],
+      "Oppositions": []
+    },
+    "Lady Catherine Bambridge(Countess of Bredmontan)": {
+      "Family":[
+        "James Montgomery (father-in-law)",
+        "Edward Montgomery (husband)",
+        "Lord Surmont (son)",
+        "Lady Hilda (daughter)"
+      ],
+      "Allies": [],
+      "Oppositions": [
+        "Dr. Amelia Thornbury",
+        "Brigadier General Sarah Lynch"
+      ]
+    },
+    "Lady Grainger": {
+      "Family": [
+        "Lieutenant Gen. Franklin Haterleigh (husband)",
+        "Daniel Haterleigh (son)"
+      ],
+      "Allies": [],
+      "Oppositions": []
+    },
+    "ADMF Edward Hilson": {
+      "Family": [],
+      "Allies": [
+        "Lieutenant Gen. Franklin Haterleigh"
+      ],
+      "Oppositions": []
+    },
+    "Edmond Williamson (deceased Viscount of Williamson)": {
+      "Family": [
+        "Lady Keith (daughter)"
+      ],
+      "Allies": [],
+      "OpposITIONS": [
+        "Steven Galenford",
+        "John Hector Wilcox"
+      ]
+    },
+    "Lady Keith(deceased)": {
+      "Family": [
+        "Edmond Williamson (father)",
+        "Steven Galenford (husband)"
+      ],
+      "Allies": [],
+      "Oppositions": [],
+      "Love Interest": [
+        "Steven Galenford (husband)"
+      ]
+    },
+    "Sir Geoffrey Harding": {
+      "Family": [],
+      "Allies": [
+        "Noris Douglus",
+        "Steven Galenford"
+      ],
+      "Oppositions": []
+    }
+  }
+}
