@@ -1,605 +1,449 @@
 {
-  "relationships": {
-    "James Montgomery (Duke of Montgomery)": {
-      "Family": [
-        "Duchess Helena Montgomery (late wife)",
-        "John Hector Wilcox (brother-in-law)",
-        "Charles Benjamin Montgomery (Haterleigh) (younger brother)",
-        "Edward Montgomery (son)",
-        "Catherine Fetherstonhaugh (daughter-in-law)",
-        "Patrick Montgomery (son)",
-        "Caroline Fetherstonhaugh (daughter-in-law)",
-        "Lieutenant Gen. Franklin Haterleigh (nephew)",
-        "Lord Surmont (grandson)",
-        "Lady Hilda Montgomery (granddaughter)",
-        "Diana Montgomery (granddaughter)",
-        "Daniel Haterleigh (grandnephew)"
+  "constraints": {
+    "no_overlap_given_names": true,
+    "rule": "All newly created given names are unique across the entire dataset. Existing given names already present (e.g., James, Helena, Edward, Catherine, Patrick, Caroline, Surmont, Carlos, Hilda, Diana, Charles, Franklin, Alexa, Daniel, John, Hector, Herald, Gregeory, Louis, Edwards, Grainger, Belford, Adelford, Mary, Aureline, Richard, Arthur, Cecile, Martin, Henry, Amelia) are kept as-is."
+  },
+  "houses": {
+    "Fetherstonhaugh": {
+      "rank": "Dukedom",
+      "title": "Duke of Gravenshill",
+      "house_name": "House Fetherstonhaugh of Gravenshill"
+    },
+    "Hatherleigh": {
+      "rank": "Earldom",
+      "title": "Earl of Claveron",
+      "house_name": "House Hatherleigh of Claveron"
+    },
+    "Wilcox": {
+      "rank": "Earldom",
+      "title": "Earl of Chandelaid",
+      "house_name": "House Wilcox of Chandelaid"
+    },
+    "Longfall": {
+      "rank": "Baronetcy",
+      "title": "Baronet of Larkmoor",
+      "house_name": "House Longfall of Larkmoor"
+    },
+    "Royal": {
+      "rank": "Royal House",
+      "title": "Royal House of Valemont",
+      "house_name": "House of Valemont"
+    },
+    "Harrington": {
+      "rank": "Earldom",
+      "title": "Earl of Brackenmere",
+      "house_name": "House Harrington of Brackenmere"
+    },
+    "Blackwood": {
+      "rank": "Earldom",
+      "title": "Earl of Wistock",
+      "house_name": "House Blackwood of Wistock"
+    },
+    "Galenford": {
+      "rank": "Gentry",
+      "title": "House of Galenford",
+      "house_name": "House Galenford"
+    },
+    "Thornbury": {
+      "rank": "Earldom",
+      "title": "Earl of Langford",
+      "house_name": "House Thornbury of Langford"
+    },
+    "Ashcombe": {
+      "rank": "Dukedom",
+      "title": "Duke of Bambridge",
+      "house_name": "House Ashcombe of Bambridge"
+    },
+    "Mayford": {
+      "rank": "Royal Dukedom",
+      "title": "Duke of Aclowen",
+      "house_name": "House Mayford of Aclowen"
+    }
+  },
+  "families": {
+    "Fetherstonhaugh_Family_Dukedom_of_Gravenshill": {
+      "generation_1": [
+        {
+          "full_name": "Lord James Fetherstonhaugh",
+          "birth_year": 1945,
+          "spouse": {
+            "full_name": "Helena Fetherstonhaugh",
+            "birth_year": 1946,
+            "death_year": 2025,
+            "note": "née Wilcox (see Wilcox family)"
+          }
+        }
       ],
-      "Allies": [
-        "John Hector Wilcox",
-        "Duchess Helena Montgomery",
-        "Sir Henry Galenford"
+      "generation_2": [
+        {
+          "full_name": "Lord Edward Fetherstonhaugh",
+          "birth_year": 1971,
+          "spouse": {
+            "full_name": "Lady Catherine Ashcombe",
+            "birth_year": 1974,
+            "house_name": "House Ashcombe of Bambridge",
+            "note": "By marriage styled Catherine Fetherstonhaugh"
+          },
+          "marriage_note": "m. Catherine (House Ashcombe of Bambridge)"
+        },
+        {
+          "full_name": "Lord Patrick Fetherstonhaugh",
+          "birth_year": 1973,
+          "spouse": {
+            "full_name": "Lady Caroline Fetherstonhaugh",
+            "house_name": "House Mayford of Arclowen",
+            "note": "By marriage styled Caroline Fetherstonhaugh",
+            "birth_year": 1974
+          }
+        }
       ],
-      "Oppositions": [
-        "Charles Benjamin Montgomery (Haterleigh)",
-        "Sir Marcus Whitmore",
-        "Dr. Amelia Thornbury",
-        "William Harper, KC",
-        "Jordan Baptiste",
-        "Tom Mitchell",
-        "Alexandra \"Alex\" Vanderbilt"
+      "generation_3": {
+        "Edward_branch": [
+          {
+            "full_name": "Lord Surmont Fetherstonhaugh",
+            "birth_year": 1999,
+            "spouse": {
+              "full_name": "Lady Carlos Galenford",
+              "birth_year": 1999
+            }
+          },
+          {
+            "full_name": "Lady Hilda Fetherstonhaugh",
+            "birth_year": 2001
+          }
+        ],
+        "Patrick_branch": [
+          {
+            "full_name": "Lady Diana Fetherstonhaugh",
+            "birth_year": 2000
+          }
+        ]
+      }
+    },
+    "Hatherleigh_Family_Earldom_of_Claveron": {
+      "generation_1": [
+        {
+          "full_name": "Lord Charles Hatherleigh",
+          "birth_year": 1949,
+          "spouse": {
+            "full_name": "Lady Penelope Hatherleigh",
+            "birth_year": 1950
+          }
+        }
+      ],
+      "generation_2": [
+        {
+          "full_name": "Lord Franklin Hatherleigh",
+          "birth_year": 1975,
+          "spouse": {
+            "full_name": "Lady Alexa Longfall",
+            "birth_year": 1976,
+            "house_name": "House Longfall of Larkmoor",
+            "note": "By marriage styled Alexa Hatherleigh"
+          }
+        }
+      ],
+      "generation_3": [
+        {
+          "full_name": "Lord Daniel Hatherleigh",
+          "birth_year": 2003
+        }
       ]
     },
-    "John Hector Wilcox": {
-      "Family": [
-        "Duchess Helena Montgomery (late sister-in-law)",
-        "James Montgomery (brother-in-law)"
+    "Wilcox_Family_Earldom_of_Chandelaid": {
+      "generation_1": [
+        {
+          "full_name": "Lord John Hector Wilcox",
+          "birth_year": 1943
+        },
+        {
+          "full_name": "Lady Helena Wilcox",
+          "birth_year": 1946,
+          "spouse": {
+            "full_name": "Lord James Fetherstonhaugh",
+            "birth_year": 1945,
+            "note": "Same as Fetherstonhaugh Generation 1"
+          },
+          "marriage_note": "By marriage styled Helena Fetherstonhaugh"
+        }
       ],
-      "Allies": [
-        "James Montgomery",
-        "Duchess Helena Montgomery",
-        "Steven Galenford",
-        "Lieutenant Gen. Franklin Haterleigh",
-        "Minister of Internal Affairs",
-        "Edward Montgomery",
-        "Daniel Haterleigh"
+      "generation_2": [
+        {
+          "full_name": "Lord Herald Wilcox",
+          "birth_year": 1970,
+          "spouse": {
+            "full_name": "Lady Georgiana Wilcox",
+            "birth_year": 1972
+          }
+        }
       ],
-      "Oppositions": [
-        "Charles Benjamin Montgomery (Haterleigh)",
-        "Edmond Williamson, Viscount of Williamson",
-        "Jordan Baptiste",
-        "William Harper, KC"
+      "generation_3": [
+        {
+          "full_name": "Lord Gregeory Wilcox",
+          "birth_year": 1997,
+          "spouse": {
+            "full_name": "Lady Isolde Wilcox",
+            "birth_year": 1997
+          }
+        }
       ]
     },
-    "Edward Montgomery": {
-      "Family": [
-        "James Montgomery (father)",
-        "Duchess Helena Montgomery (mother)",
-        "Patrick Montgomery (brother)",
-        "Countess of Bredmontan (wife)",
-        "Lady Hilda Montgomery (daughter)",
-        "Lord Surmont (son)",
-        "Charles Benjamin Montgomery (Haterleigh) (uncle)",
-        "Diana Montgomery (niece)"
+    "Longfall_Family_Baronetcy_of_Larkmoor": {
+      "generation_1": [
+        {
+          "full_name": "Lord Alistair Longfall",
+          "birth_year": 1949,
+          "spouse": {
+            "full_name": "Lady Beatrix Longfall",
+            "birth_year": 1949
+          }
+        }
       ],
-      "Allies": [
-        "Patrick Montgomery",
-        "Lieutenant Gen. Franklin Haterleigh",
-        "John Hector Wilcox"
+      "generation_2": [
+        {
+          "full_name": "Lady Alexa Longfall",
+          "birth_year": 1976,
+          "spouse": {
+            "full_name": "Lord Franklin Hatherleigh",
+            "birth_year": 1975
+          },
+          "marriage_note": "Same couple as Hatherleigh Generation 2"
+        }
       ],
-      "Oppositions": [
-        "Dr. Amelia Thornbury",
-        "William Harper, KC",
-        "Tom Mitchell"
+      "generation_3": [
+        {
+          "full_name": "Lord Daniel Hatherleigh",
+          "birth_year": 2003,
+          "note": "Listed under Hatherleigh; included here by descent line"
+        }
       ]
     },
-    "Patrick Montgomery": {
-      "Family": [
-        "James Montgomery (father)",
-        "Duchess Helena Montgomery (mother)",
-        "Edward Montgomery (brother)",
-        "Claire Somerville (wife)",
-        "Diana Montgomery (daughter)",
-        "Charles Benjamin Montgomery (Haterleigh) (uncle)",
-        "Lady Hilda Montgomery (niece)",
-        "Lord Surmont (nephew)"
+    "Royal_House_of_Valemont": {
+      "generation_1": [
+        {
+          "full_name": "King Louis IV",
+          "birth_year": 1945,
+          "title": "King Louis IV of Valemont",
+          "spouse": {
+            "full_name": "Princess Eleanora of Valemont",
+            "birth_year": 1945,
+            "title": "Queen Consort"
+          }
+        },
+        {
+          "full_name": "Prince Septimus of Valemont",
+          "birth_year": 1949,
+          "title": "Prince; later Duke of Chesterfield"
+        }
       ],
-      "Allies": [
-        "Edward Montgomery",
-        "Lysander Worthington"
+      "generation_2": [
+        {
+          "full_name": "King Edwards II",
+          "birth_year": 1970,
+          "title": "King Edwards II of Valemont",
+          "spouse": {
+            "full_name": "Princess Theodora of Valemont",
+            "birth_year": 1972,
+            "title": "Queen Consort"
+          }
+        },
+        {
+          "full_name": "Princess Grainger of Valemont",
+          "birth_year": 1980,
+          "spouse": {
+            "full_name": "Earl of Anson, Percival Montfort",
+            "birth_year": 1978,
+            "house_name": "House Montfort of Anson"
+          }
+        }
       ],
-      "Oppositions": [
-        "Dr. Amelia Thornbury",
-        "Tom Mitchell",
-        "Prince Adelford of Hyland"
+      "generation_3": {
+        "Edwards_II_branch": [
+          {
+            "full_name": "Prince Belford of Valemont",
+            "birth_year": 1996,
+            "spouse": {
+              "full_name": "Princess Mary of the Marquesite of Gorgathorn",
+              "birth_year": 1997
+            }
+          },
+          {
+            "full_name": "Prince Adelford of Valemont",
+            "birth_year": 2000
+          }
+        ],
+        "Princess_Grainger_branch": [
+          {
+            "full_name": "Princess Aureline of Valemont",
+            "birth_year": 2005
+          }
+        ]
+      }
+    },
+    "Harrington_Family_Earldom_of_Brackenmere": {
+      "generation_1": [
+        {
+          "full_name": "Lord Edmund Harrington",
+          "birth_year": 1954,
+          "spouse": {
+            "full_name": "Lady Rosalind Harrington",
+            "birth_year": 1955
+          }
+        }
+      ],
+      "generation_2": [
+        {
+          "full_name": "Lord Richard Harrington",
+          "birth_year": 1980,
+          "spouse": {
+            "full_name": "Lady Seraphina Harrington",
+            "birth_year": 1980
+          }
+        }
+      ],
+      "generation_3": [
+        {
+          "full_name": "Lord Cordelia Harrington",
+          "birth_year": 2008
+        }
       ]
     },
-    "Charles Benjamin Montgomery (Haterleigh)": {
-      "Family": [
-        "James Montgomery (elder brother)",
-        "Lieutenant Gen. Franklin Haterleigh (son)",
-        "Daniel Haterleigh (grandson)"
+    "Blackwood_Family_Earldom_of_Wistock": {
+      "generation_1": [
+        {
+          "full_name": "Lord Rowland Blackwood",
+          "birth_year": 1970,
+          "spouse": {
+            "full_name": "Lady Minerva Blackwood",
+            "birth_year": 1972
+          }
+        }
       ],
-      "Allies": [
-        "James Montgomery"
-      ],
-      "Oppositions": [
-        "James Montgomery",
-        "John Hector Wilcox",
-        "Duchess Helena Montgomery",
-        "William Harper, KC",
-        "Brigadier General Sarah Lynch"
+      "generation_2": [
+        {
+          "full_name": "Lord Arthur Blackwood",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Lady Cecile Blackwood",
+          "birth_year": 2002,
+          "death_year": 2020
+        }
       ]
     },
-    "Lieutenant Gen. Franklin Haterleigh": {
-      "Family": [
-        "Charles Benjamin Montgomery (Haterleigh) (father)",
-        "Catherine Bambridge (wife)",
-        "Lady Grainger (Daniel's mother)",
-        "Daniel Haterleigh (son)"
+    "Galenford_Family": {
+      "generation_1": [
+        {
+          "full_name": "Mr. Martin Galenford",
+          "birth_year": 1948,
+          "spouse": {
+            "full_name": "Mrs. Lavinia Galenford",
+            "birth_year": 1948
+          }
+        }
       ],
-      "Allies": [
-        "ADMF Edward Hilson",
-        "John Hector Wilcox",
-        "Edward Montgomery"
+      "generation_2": [
+        {
+          "full_name": "Lord Henry Galenford",
+          "birth_year": 1971,
+          "honour": "Sir (Knighted)",
+          "spouse": {
+            "full_name": "Lady Ottilie Galenford",
+            "birth_year": 1971
+          }
+        }
       ],
-      "Oppositions": [
-        "Brigadier General Sarah Lynch"
+      "generation_3": [
+        {
+          "full_name": "Lady Carlos Galenford",
+          "birth_year": 1999,
+          "spouse": {
+            "full_name": "Surmont Fetherstonhaugh",
+            "birth_year": 1999
+          }
+        }
       ]
     },
-    "Lord Surmont": {
-      "Family": [
-        "Edward Montgomery (father)",
-        "Countess of Bredmontan (mother)",
-        "James Montgomery (grandfather)",
-        "Lady Hilda Montgomery (sister)",
-        "Diana Montgomery (cousin)",
-        "Lady Carlos Galenford (wife)"
+    "Thornbury_Family_Earldom_of_Langford": {
+      "generation_1": [
+        {
+          "full_name": "Lord Benedict Thornbury",
+          "birth_year": 1960,
+          "spouse": {
+            "full_name": "Lady Marianne Thornbury",
+            "birth_year": 1960
+          }
+        }
       ],
-      "Allies": [
-        "Diana Montgomery"
-      ],
-      "Oppositions": [
-        "Dr. Elizabeth Wright",
-        "Priscilla Pemberton"
-      ],
-      "Love Interest": [
-        "Lady Carlos Galenford (wife)",
-        "Priscilla Pemberton (ex-girlfriend)",
-        "Dr. Elizabeth Wright (strategic)"
+      "generation_2": [
+        {
+          "full_name": "Lady Amelia Thornbury",
+          "birth_year": 1987,
+          "spouse": {
+            "full_name": "Lord Spencer Thornbury",
+            "birth_year": 1987
+          }
+        }
       ]
     },
-    "Lady Hilda Montgomery": {
-      "Family": [
-        "Edward Montgomery (father)",
-        "Countess of Bredmontan (mother)",
-        "James Montgomery (grandfather)",
-        "Lord Surmont (brother)",
-        "Diana Montgomery (cousin)"
+    "Ashcombe_Family_Dukedom_of_Bambridge": {
+      "generation_1": [
+        {
+          "full_name": "Lord Everard Ashcombe",
+          "birth_year": 1946,
+          "spouse": {
+            "full_name": "Lady Honoria Ashcombe",
+            "birth_year": 1947
+          }
+        }
       ],
-      "Allies": [
-        "Diana Montgomery",
-        "Daniel Haterleigh"
+      "generation_2": [
+        {
+          "full_name": "Lord Algernon Ashcombe",
+          "birth_year": 1972,
+          "spouse": {
+            "full_name": "Lady Euphemia Ashcombe",
+            "birth_year": 1973
+          }
+        },
+        {
+          "full_name": "Lady Catherine Ashcombe",
+          "birth_year": 1974,
+          "spouse": {
+            "full_name": "Lord Edward Fetherstonhaugh",
+            "birth_year": 1971
+          },
+          "marriage_note": "By marriage styled Catherine Fetherstonhaugh"
+        },
+        {
+          "full_name": "Lord Hugo Ashcombe",
+          "birth_year": 1977,
+          
+          "spouse": {
+            "full_name": "Lady Leander Ashcombe",
+            "birth_year": 1975,
+            "gender_note": "Male (as specified)"
+          }
+        }
       ],
-      "Oppositions": [
-        "Victoria Kellner",
-        "Priscilla Pemberton",
-        "Alexandra \"Alex\" Vanderbilt",
-        "Lysander Worthington"
-      ],
-      "Love Interest": [
-        "Prince Adelford of Hyland (lover)",
-        "Lysander Worthington (involved)"
+      "generation_3": [
+        {
+          "full_name": "Lord Tristan Ashcombe",
+          "birth_year": 1998,
+          "spouse": {
+            "full_name": "Lady Mirabel Ashcombe",
+            "birth_year": 2000
+          }
+        },
+        {
+          "full_name": "Lord Gideon Ashcombe",
+          "birth_year": 2004,
+          "spouse": {
+            "full_name": "Lady Sabina Ashcombe",
+            "birth_year": 2004
+          }
+        }
       ]
-    },
-    "Diana Montgomery": {
-      "Family": [
-        "Patrick Montgomery (father)",
-        "Claire Somerville (mother)",
-        "James Montgomery (grandfather)",
-        "Lady Hilda Montgomery (cousin)",
-        "Lord Surmont (cousin)"
-      ],
-      "Allies": [
-        "Lady Hilda Montgomery",
-        "Arthur Blackwood",
-        "Lord Surmont",
-        "Daniel Haterleigh"
-      ],
-      "Oppositions": [
-        "Arthur Blackwood"
-      ],
-      "Love Interest": [
-        "Arthur Blackwood (candidate)",
-        "Prince Adelford of Hyland (pursued by)"
-      ]
-    },
-    "Lieutenant Daniel Haterleigh": {
-      "Family": [
-        "Lieutenant Gen. Franklin Haterleigh (father)",
-        "Lady Grainger (mother)",
-        "Catherine Bambridge (step-mother/father's wife)",
-        "Charles Benjamin Montgomery (Haterleigh) (grandfather)",
-        "Edward Montgomery (uncle)"
-      ],
-      "Allies": [
-        "Dr. Amelia Thornbury",
-        "Lady Hilda Montgomery",
-        "John Hector Wilcox",
-        "Diana Montgomery"
-      ],
-      "Oppositions": [
-        "Sir Marcus Whitmore",
-        "Priscilla Pemberton",
-        "Brigadier General Sarah Lynch"
-      ],
-      "Love Interest": [
-        "Priscilla Pemberton (dating)"
-      ]
-    },
-    "Sir Henry Galenford": {
-      "Family": [
-        "Steven Galenford (father)",
-        "Maria Harrington (deceased wife)",
-        "Lady Carlos Galenford (daughter)",
-        "Grace Galenford (daughter)"
-      ],
-      "Allies": [
-        "James Montgomery",
-        "Dr. Lucas"
-      ],
-      "Oppositions": [
-        "Dr. Richard Patel-Harrington"
-      ]
-    },
-    "Steven Galenford ('The Lion')": {
-      "Family": [
-        "Sir Henry Galenford (son)",
-        "Lady Keith (wife, deceased)"
-      ],
-      "Allies": [
-        "John Hector Wilcox",
-        "Sir Geoffrey Harding"
-      ],
-      "Oppositions": [
-        "Edmond Williamson, Viscount of Williamson",
-        "Dr. Richard Patel-Harrington"
-      ],
-      "Love Interest": [
-        "Lady Keith (wife, deceased)"
-      ]
-    },
-    "Lady Carlos Galenford": {
-      "Family": [
-        "Sir Henry Galenford (father)",
-        "Maria Harrington (deceased mother)",
-        "Grace Galenford (identical twin sister)",
-        "Lord Surmont (husband)"
-      ],
-      "Allies": [
-        "Grace Galenford",
-        "Noris Douglus"
-      ],
-      "Oppositions": [],
-      "Love Interest": [
-        "Lord Surmont (husband)"
-      ]
-    },
-    "Grace Galenford (Lucas)": {
-      "Family": [
-        "Sir Henry Galenford (biological father)",
-        "Maria Harrington (deceased mother)",
-        "Lady Carlos Galenford (identical twin sister)",
-        "Dr. Lucas (adoptive father/guardian)"
-      ],
-      "Allies": [
-        "Noris Douglus",
-        "Lady Carlos Galenford"
-      ],
-      "Oppositions": [
-        "Victoria Kellner",
-        "Arthur Blackwood"
-      ],
-      "Love Interest": [
-        "Noris Douglus (lover)"
-      ]
-    },
-    "Noris Douglus": {
-      "Family": [],
-      "Allies": [
-        "Grace Galenford",
-        "Lady Carlos Galenford",
-        "Sir Geoffrey Harding"
-      ],
-      "Oppositions": [
-        "Victoria Kellner"
-      ],
-      "Love Interest": [
-        "Grace Galenford (lover)"
-      ]
-    },
-    "Dr. Amelia Thornbury": {
-      "Family": [],
-      "Allies": [
-        "Dr. Elizabeth Wright",
-        "Daniel Haterleigh",
-        "Priscilla Pemberton"
-      ],
-      "Oppositions": [
-        "Edward Montgomery",
-        "Patrick Montgomery"
-      ]
-    },
-    "Sir Marcus Whitmore": {
-      "Family": [],
-      "Allies": [
-        "Victoria Kellner",
-        "Dr. Elizabeth Wright",
-        "Tom Mitchell",
-        "Brigadier General Sarah Lynch"
-      ],
-      "Oppositions": [
-        "Montgomery family",
-        "Daniel Haterleigh",
-        "Lieutenant Gen. Franklin Haterleigh"
-      ],
-      "Love Interest": [
-        "Victoria Kellner (relationship/alliance)"
-      ]
-    },
-    "Victoria Kellner": {
-      "Family": [],
-      "Allies": [
-        "Sir Marcus Whitmore",
-        "Dr. Elizabeth Wright",
-        "Jordan Baptiste",
-        "Dr. Amelia Thornbury",
-        "Priscilla Pemberton"
-      ],
-      "Oppositions": [
-        "Montgomery family",
-        "Lady Hilda Montgomery",
-        "Grace Galenford",
-        "Noris Douglus",
-        "Prince Adelford of Hyland",
-        "Pigeon News Agency"
-      ],
-      "Love Interest": [
-        "Sir Marcus Whitmore (relationship/alliance)"
-      ]
-    },
-    "Dr. Elizabeth Wright": {
-      "Family": [],
-      "Allies": [
-        "Dr. Amelia Thornbury",
-        "Victoria Kellner",
-        "Sir Marcus Whitmore",
-        "Jordan Baptiste",
-        "Arthur Blackwood",
-        "Priscilla Pemberton"
-      ],
-      "Oppositions": [
-        "Montgomery family",
-        "ATARX Group",
-        "Lord Surmont"
-      ],
-      "Love Interest": [
-        "Lord Surmont (strategic/conflicted)"
-      ]
-    },
-    "Priscilla Pemberton": {
-      "Family": [],
-      "Allies": [
-        "Daniel Haterleigh",
-        "Alexandra \"Alex\" Vanderbilt",
-        "Dr. Amelia Thornbury",
-        "Arthur Blackwood",
-        "Sir Marcus Whitmore",
-        "Brigadier General Sarah Lynch"
-      ],
-      "Oppositions": [
-        "Montgomery family",
-        "Tetra-Noctile",
-        "Lord Surmont",
-        "Patrick Montgomery",
-        "Lady Hilda Montgomery",
-        "Brigadier General Sarah Lynch"
-      ],
-      "Love Interest": [
-        "Daniel Haterleigh (dating)",
-        "Lord Surmont (ex-boyfriend)"
-      ]
-    },
-    "Brigadier General Sarah Lynch": {
-      "Family": [],
-      "Allies": [
-        "Sir Marcus Whitmore",
-        "Minister of Internal Affairs",
-        "John Hector Wilcox",
-        "Lieutenant Gen. Franklin Haterleigh",
-        "Dr. Amelia Thornbury",
-        "Priscilla Pemberton"
-      ],
-      "Oppositions": [
-        "Lieutenant Gen. Franklin Haterleigh",
-        "ATARX Group",
-        "Montgomery family",
-        "Priscilla Pemberton"
-      ]
-    },
-    "Lysander Worthington": {
-      "Family": [],
-      "Allies": [
-        "Patrick Montgomery"
-      ],
-      "Oppositions": [
-        "Montgomery empire",
-        "Edward Montgomery",
-        "Patrick Montgomery"
-      ],
-      "Love Interest": [
-        "Lady Hilda Montgomery (involved)"
-      ]
-    },
-    "Arthur Blackwood": {
-      "Family": [],
-      "Allies": [
-        "Diana Montgomery",
-        "Jordan Baptiste",
-        "Dr. Elizabeth Wright",
-        "Dr. Amelia Thornbury",
-        "Priscilla Pemberton"
-      ],
-      "Oppositions": [
-        "Montgomery family",
-        "Diana Montgomery"
-      ],
-      "Love Interest": [
-        "Diana Montgomery (candidate)",
-        "Grace Galenford (pursuing)"
-      ]
-    },
-    "Prince Adelford of Hyland": {
-      "Family": [
-        "King Edward II (father)",
-        "Crown Prince (brother)"
-      ],
-      "Allies": [
-        "Lady Hilda Montgomery",
-        "Diana Montgomery"
-      ],
-      "Oppositions": [
-        "Crown Prince (brother)",
-        "Victoria Kellner",
-        "TruthSphere"
-      ],
-      "Love Interest": [
-        "Lady Hilda Montgomery (lover)",
-        "Diana Montgomery (pursued first)"
-      ]
-    },
-    "King Edward II": {
-      "Family": [
-        "Queen ELucasa of Fourden(wife)",
-        "Prince Adelford of Hyland (son)",
-        "Crown Prince (son)"
-      ],
-      "Allies": [],
-      "Oppositions": []
-    },
-    "Alexandra \"Alex\" Vanderbilt": {
-      "Family": [],
-      "Allies": [
-        "Priscilla Pemberton"
-      ],
-      "Oppositions": [
-        "Montgomery family",
-        "Lady Hilda Montgomery"
-      ]
-    },
-    "Dr. Richard Patel-Harrington": {
-      "Family": [],
-      "Allies": [
-        "Former R&H employees"
-      ],
-      "Oppositions": [
-        "R&H Corporation",
-        "Sir Henry Galenford",
-        "Steven Galenford"
-      ]
-    },
-    "William Harper, KC": {
-      "Family": [],
-      "Allies": [],
-      "Oppositions": [
-        "Montgomery subsidiaries",
-        "Charles Benjamin Montgomery (Haterleigh)",
-        "Edward Montgomery"
-      ]
-    },
-    "Jordan Baptiste": {
-      "Family": [],
-      "Allies": [
-        "Arthur Blackwood"
-      ],
-      "Oppositions": [
-        "Pigeon News Agency",
-        "Montgomery family",
-        "John Hector Wilcox"
-      ]
-    },
-    "Tom Mitchell": {
-      "Family": [],
-      "Allies": [
-        "Sir Marcus Whitmore",
-        "United Workers Federation"
-      ],
-      "Oppositions": [
-        "Montgomery-owned companies",
-        "Tetra-Noctile",
-        "Edward Montgomery",
-        "Patrick Montgomery"
-      ]
-    },
-    "Duchess Helena Montgomery": {
-      "Family": [
-        "James Montgomery (husband)",
-        "John Hector Wilcox (brother-in-law)",
-        "Edward Montgomery (son)",
-        "Patrick Montgomery (son)"
-      ],
-      "Allies": [
-        "James Montgomery",
-        "John Hector Wilcox"
-      ],
-      "Oppositions": [
-      ]
-    },
-    "Claire Somerville": {
-      "Family": [
-        "James Montgomery (father-in-law)",
-        "Patrick Montgomery (husband)",
-        "Diana Montgomery (daughter)"
-      ],
-      "Allies": [],
-      "Oppositions": []
-    },
-    "Lady Catherine Bambridge(Countess of Bredmontan)": {
-      "Family":[
-        "James Montgomery (father-in-law)",
-        "Edward Montgomery (husband)",
-        "Lord Surmont (son)",
-        "Lady Hilda (daughter)"
-      ],
-      "Allies": [],
-      "Oppositions": [
-        "Dr. Amelia Thornbury",
-        "Brigadier General Sarah Lynch"
-      ]
-    },
-    "Lady Grainger": {
-      "Family": [
-        "Lieutenant Gen. Franklin Haterleigh (husband)",
-        "Daniel Haterleigh (son)"
-      ],
-      "Allies": [],
-      "Oppositions": []
-    },
-    "ADMF Edward Hilson": {
-      "Family": [],
-      "Allies": [
-        "Lieutenant Gen. Franklin Haterleigh"
-      ],
-      "Oppositions": []
-    },
-    "Edmond Williamson (deceased Viscount of Williamson)": {
-      "Family": [
-        "Lady Keith (daughter)"
-      ],
-      "Allies": [],
-      "OpposITIONS": [
-        "Steven Galenford",
-        "John Hector Wilcox"
-      ]
-    },
-    "Lady Keith(deceased)": {
-      "Family": [
-        "Edmond Williamson (father)",
-        "Steven Galenford (husband)"
-      ],
-      "Allies": [],
-      "Oppositions": [],
-      "Love Interest": [
-        "Steven Galenford (husband)"
-      ]
-    },
-    "Sir Geoffrey Harding": {
-      "Family": [],
-      "Allies": [
-        "Noris Douglus",
-        "Steven Galenford"
-      ],
-      "Oppositions": []
     }
   }
 }
