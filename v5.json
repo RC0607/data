@@ -25,7 +25,7 @@
       "house_name": "House Longfall of Larkmoor"
     },
     "Royal": {
-      "rank": "Royal House",
+      "rank": "Royalty",
       "title": "Royal House of Valemont",
       "house_name": "House of Valemont"
     },
@@ -96,9 +96,11 @@
             "full_name": "Lady Caroline Fetherstonhaugh",
             "title": "Princess Mayford(1973-1996)",
             "house_name": "House Mayford of Arclowen(Royal)",
-            "note": "By marriage styled Caroline Fetherstonhaugh",
+            "honour": "Her Serene Highness (Princess)",
+            "note": "By marriage styled Caroline Fetherstonhaugh.",
             "birth_year": 1974
-          }
+          },
+          "marriage_note": "m. Caroline (Royal House Mayford of Aclowen)"
         }
       ],
       "generation_3": {
@@ -228,16 +230,20 @@
           }
         }
       ],
-      "generation_3": [
-        {
-          "full_name": "Lord Daniel Hatherleigh",
-          "birth_year": 2003
-        },
-        {
-          "full_name": "Lord Alfred Longfall",
-          "birth_year": 2001
-        }
-      ]
+      "generation_3": {
+        "Franklin_branch": [
+          {
+            "full_name": "Lord Daniel Hatherleigh",
+            "birth_year": 2003
+          }
+        ],
+        "Vincent_branch": [
+          {
+            "full_name": "Lord Alfred Hatherleigh",
+            "birth_year": 2000
+          }
+        ]
+      }
     },
     "Royal_House_of_Valemont": {
       "generation_1": [
