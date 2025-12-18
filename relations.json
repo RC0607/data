@@ -66,11 +66,13 @@
         {
           "full_name": "Lord James Fetherstonhaugh",
           "birth_year": 1945,
+          "title": "Duke of Gravenshill",
           "spouse": {
             "full_name": "Helena Fetherstonhaugh",
             "birth_year": 1946,
             "death_year": 2025,
-            "note": "née Wilcox (see Wilcox family)"
+            "title": "Duchess of Gravenshill(1977-2025)",
+            "note": "née Wilcox (Born Helena Wilcox)"
           }
         }
       ],
@@ -78,6 +80,7 @@
         {
           "full_name": "Lord Edward Fetherstonhaugh",
           "birth_year": 1971,
+          "title": "Earl of Bredmontan",
           "spouse": {
             "full_name": "Lady Catherine Conville",
             "birth_year": 1974,
@@ -91,7 +94,7 @@
           "birth_year": 1973,
           "spouse": {
             "full_name": "Lady Caroline Fetherstonhaugh",
-            "house_name": "House Mayford of Arclowen",
+            "house_name": "House Mayford of Arclowen(Royal)",
             "note": "By marriage styled Caroline Fetherstonhaugh",
             "birth_year": 1974
           }
@@ -126,8 +129,10 @@
         {
           "full_name": "Lord Charles Hatherleigh",
           "birth_year": 1949,
+          "title": "Earl of Claveron(since 2005)",
           "spouse": {
             "full_name": "Lady Penelope Hatherleigh",
+            "title": "Countess of Claveron(since 2005)",
             "birth_year": 1950
           }
         }
@@ -155,7 +160,8 @@
       "generation_1": [
         {
           "full_name": "Lord John Hector Wilcox",
-          "birth_year": 1943
+          "birth_year": 1943,
+          "title": "Earl of Chandelaid(since 1988)"
         },
         {
           "full_name": "Lady Helena Wilcox",
@@ -194,9 +200,11 @@
         {
           "full_name": "Lord Alistair Longfall",
           "birth_year": 1949,
+          "title": "Baronet of Larkmoor",
           "spouse": {
             "full_name": "Lady Beatrix Longfall",
-            "birth_year": 1949
+            "birth_year": 1949,
+            "title": "Baroness of Larkmoor"
           }
         }
       ],
@@ -209,13 +217,24 @@
             "birth_year": 1975
           },
           "marriage_note": "Same couple as Hatherleigh Generation 2"
+        },
+        {
+          "full_name": "Lord Vincent Longfall",
+          "birth_year": 1974,
+          "spouse": {
+            "full_name": "Lady Jacqueline Longfall",
+            "birth_year": 1975
+          }
         }
       ],
       "generation_3": [
         {
           "full_name": "Lord Daniel Hatherleigh",
-          "birth_year": 2003,
-          "note": "Listed under Hatherleigh; included here by descent line"
+          "birth_year": 2003
+        },
+        {
+          "full_name": "Lord Alfred Longfall",
+          "birth_year": 2001
         }
       ]
     },
@@ -224,17 +243,18 @@
         {
           "full_name": "King Louis IV",
           "birth_year": 1945,
-          "title": "King Louis IV of Valemont",
+          "title": "King Louis IV(1982-2025); Grand duke of Valemont(2025-)",
           "spouse": {
             "full_name": "Princess Eleanora of Valemont",
             "birth_year": 1945,
-            "title": "Queen Consort"
+            "title": "Grand duchess"
           }
         },
         {
           "full_name": "Prince Sumulton of Valemont",
           "birth_year": 1949,
-          "title": "Prince; later Duke of Chesterfield"
+          "death_year": 2025,
+          "title": "Prince Sumulton(1949-2025); Duke of Chesterfield(1990-2025)"
         }
       ],
       "generation_2": [
@@ -252,8 +272,9 @@
           "full_name": "Princess Grainger of Valemont",
           "birth_year": 1980,
           "spouse": {
-            "full_name": "Earl Anson of Percival Montfort",
+            "full_name": "Lord Alec Montford",
             "birth_year": 1978,
+            "title": "Earl of Anson",
             "house_name": "House Montfort of Anson"
           }
         }
@@ -263,9 +284,11 @@
           {
             "full_name": "Prince Belford of Valemont",
             "birth_year": 1996,
+            "title": "Crowned prince(since 2025)",
             "spouse": {
               "full_name": "Princess Mary of the Marquesite of Gorgathorn",
-              "birth_year": 1997
+              "birth_year": 1997,
+              "title": "Princess consort(since 2023)"
             }
           },
           {
@@ -286,9 +309,13 @@
         {
           "full_name": "Lord Edmund Harrington",
           "birth_year": 1954,
+          "death_year": 2009,
+          "title": "Earl of Brackenmere(1988-2009)",
           "spouse": {
             "full_name": "Lady Rosalind Harrington",
-            "birth_year": 1955
+            "birth_year": 1955,
+            "death_year": 2009,
+            "title": "Countess of Brackenmere(1988-2009)"
           }
         }
       ],
@@ -296,6 +323,7 @@
         {
           "full_name": "Lord Richard Harrington",
           "birth_year": 1980,
+          "title": "Earl of Brackenmere(since 2009)",
           "spouse": {
             "full_name": "Lady Seraphina Harrington",
             "birth_year": 1980
@@ -314,16 +342,21 @@
         {
           "full_name": "Lord Rowland Blackwood",
           "birth_year": 1970,
+          "death_year": 2015,
+          "title": "Earl of Wistock",
           "spouse": {
             "full_name": "Lady Minerva Blackwood",
-            "birth_year": 1972
+            "birth_year": 1972,
+            "death_year": 2017,
+            "title": "Countess of Wistock"
           }
         }
       ],
       "generation_2": [
         {
           "full_name": "Lord Arthur Blackwood",
-          "birth_year": 1998
+          "birth_year": 1998,
+          "title": "Earl of Wistock(since 2015)"
         },
         {
           "full_name": "Lady Cecile Blackwood",
@@ -370,9 +403,11 @@
         {
           "full_name": "Lord Benedict Thornbury",
           "birth_year": 1960,
+          "title": "Earl of Langford",
           "spouse": {
             "full_name": "Lady Marianne Thornbury",
-            "birth_year": 1960
+            "birth_year": 1960,
+            "title": "Countess of Langford"
           }
         }
       ],
@@ -392,9 +427,11 @@
         {
           "full_name": "Lord Anthony Conville",
           "birth_year": 1946,
+          "title": "Duke of Bambridge",
           "spouse": {
             "full_name": "Lady Honoria Conville",
-            "birth_year": 1947
+            "birth_year": 1947,
+            "title": "Duchess of Bambridge"
           }
         }
       ],
@@ -402,9 +439,11 @@
         {
           "full_name": "Lord Alexander Conville",
           "birth_year": 1972,
+          "title": "Earl of Chattem",
           "spouse": {
             "full_name": "Lady Patricia Conville",
-            "birth_year": 1973
+            "birth_year": 1973,
+            "title": "Countess of Chattem"
           }
         },
         {
@@ -427,24 +466,28 @@
           }
         }
       ],
-      "generation_3": [
-        {
-          "full_name": "Lord David Conville",
-          "birth_year": 1998,
-          "spouse": {
-            "full_name": "Lady Mirabel Conville",
-            "birth_year": 2000
+      "generation_3": {
+          "Alexander_branch": [
+          {
+            "full_name": "Lord Gideon Conville",
+            "birth_year": 2004,
+            "spouse": {
+              "full_name": "Lady Sabina Conville",
+              "birth_year": 2004
+            }
           }
-        },
-        {
-          "full_name": "Lord Gideon Conville",
-          "birth_year": 2004,
-          "spouse": {
-            "full_name": "Lady Sabina Conville",
-            "birth_year": 2004
+        ],
+        "Hugo_branch": [
+          {
+            "full_name": "Lord David Conville",
+            "birth_year": 1998,
+            "spouse": {
+              "full_name": "Lady Mirabel Conville",
+              "birth_year": 2000
+            }
           }
-        }
-      ]
+        ]
+      }
     }
   }
 }
