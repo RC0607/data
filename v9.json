@@ -271,7 +271,7 @@
         {
           "full_name": "King Edwards II",
           "birth_year": 1970,
-          "title": "King Edwards II of Valemont",
+          "title": "King Edwards II",
           "spouse": {
             "full_name": "Princess Theodora of Valemont",
             "birth_year": 1972,
@@ -305,13 +305,24 @@
           },
           {
             "full_name": "Prince Adelford of Valemont",
-            "birth_year": 2000
+            "birth_year": 2000,
+            "Title": "Prince Royal"
           }
         ],
         "Princess_Grainger_branch": [
           {
             "full_name": "Princess Aureline of Valemont",
-            "birth_year": 2005
+            "birth_year": 2005,
+            "title": "Princess Royal"
+          }
+        ]
+      },
+      "generation_4": {
+        "Belford_branch": [
+          {
+            "full_name": "Princess Elina of Valemont",
+            "birth_year": 2024,
+            "title": "Princess Royal"
           }
         ]
       }
@@ -472,11 +483,10 @@
         {
           "full_name": "Lord Hugo Conville",
           "birth_year": 1977,
-          
+          "gender_note": "Male (as specified)",
           "spouse": {
             "full_name": "Lady Leander Conville",
-            "birth_year": 1975,
-            "gender_note": "Male (as specified)"
+            "birth_year": 1975
           }
         }
       ],
