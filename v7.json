@@ -82,7 +82,7 @@
           "birth_year": 1971,
           "title": "Earl of Bredmontan",
           "spouse": {
-            "full_name": "Lady Catherine Conville",
+            "full_name": "Lady Catherine Fetherstonhaugh",
             "birth_year": 1974,
             "house_name": "House Conville of Bambridge",
             "note": "By marriage styled Catherine Fetherstonhaugh",
@@ -110,7 +110,7 @@
             "full_name": "Lord Surmont Fetherstonhaugh",
             "birth_year": 1999,
             "spouse": {
-              "full_name": "Lady Carlos Galenford",
+              "full_name": "Lady Carlos Fetherstonhaugh",
               "birth_year": 1999
             }
           },
@@ -231,20 +231,12 @@
           }
         }
       ],
-      "generation_3": {
-        "Franklin_branch": [
-          {
-            "full_name": "Lord Daniel Hatherleigh",
-            "birth_year": 2003
-          }
-        ],
-        "Vincent_branch": [
-          {
-            "full_name": "Lord Alfred Hatherleigh",
-            "birth_year": 2000
-          }
-        ]
-      }
+     "generation_3": [
+        {
+          "full_name": "Lord Alfred Longfall",
+          "birth_year": 1997
+        }
+      ]
     },
     "Royal_House_of_Valemont": {
       "generation_1": [
