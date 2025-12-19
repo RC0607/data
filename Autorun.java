@@ -16,7 +16,8 @@ public class Autorun {
             "Prince Adelford of Valemont",
             "Lord Arthur Blackwood",
             "King Edwards II",
-            "King Louis IV"
+            "King Louis IV",
+            "Lord Franklin Hatherleigh"
         );
 
         // Base URL prefix
