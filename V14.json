@@ -222,15 +222,16 @@
         }
       ],
       "generation_2": 
-        {
-          "full_name": "Lord Vincent Longfall",
+      [
+          {"full_name": "Lord Vincent Longfall",
           "birth_year": 1974,
           "spouse": {
             "full_name": "Lady Jacqueline Longfall",
             "birth_year": 1975,
             "note": "American"
           }
-        },
+        }
+      ],
      "generation_3": [
         {
           "full_name": "Lord Alfred Longfall",
