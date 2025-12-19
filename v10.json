@@ -4,25 +4,35 @@
     "rule": "All newly created given names are unique across the entire dataset. Existing given names already present (e.g., James, Helena, Edward, Catherine, Patrick, Caroline, Surmont, Carlos, Hilda, Diana, Charles, Franklin, Alexa, Daniel, John, Hector, Herald, Gregeory, Louis, Edwards, Grainger, Belford, Adelford, Mary, Aureline, Richard, Arthur, Cecile, Martin, Henry, Amelia) are kept as-is."
   },
   "houses": {
+    "Conville": {
+      "rank": "Dukedom",
+      "title": "Duke of Bambridge",
+      "house_name": "House Conville of Bambridge"
+    },
     "Fetherstonhaugh": {
       "rank": "Dukedom",
       "title": "Duke of Gravenshill",
       "house_name": "House Fetherstonhaugh of Gravenshill"
+    },
+    "Galenford": {
+      "rank": "Gentry",
+      "title": "House of Galenford",
+      "house_name": "House Galenford"
     },
     "Hatherleigh": {
       "rank": "Earldom",
       "title": "Earl of Claveron",
       "house_name": "House Hatherleigh of Claveron"
     },
-    "Wilcox": {
-      "rank": "Earldom",
-      "title": "Earl of Chandelaid",
-      "house_name": "House Wilcox of Chandelaid"
-    },
     "Longfall": {
       "rank": "Baronetcy",
       "title": "Baronet of Larkmoor",
       "house_name": "House Longfall of Larkmoor"
+    },
+    "Wilcox": {
+      "rank": "Earldom",
+      "title": "Earl of Chandelaid",
+      "house_name": "House Wilcox of Chandelaid"
     },
     "Royal": {
       "rank": "Royalty",
@@ -39,20 +49,10 @@
       "title": "Earl of Wistock",
       "house_name": "House Blackwood of Wistock"
     },
-    "Galenford": {
-      "rank": "Gentry",
-      "title": "House of Galenford",
-      "house_name": "House Galenford"
-    },
     "Thornbury": {
       "rank": "Earldom",
       "title": "Earl of Langford",
       "house_name": "House Thornbury of Langford"
-    },
-    "Conville": {
-      "rank": "Dukedom",
-      "title": "Duke of Bambridge",
-      "house_name": "House Conville of Bambridge"
     },
     "Mayford": {
       "rank": "Royal Dukedom",
