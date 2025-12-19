@@ -93,11 +93,11 @@
         {
           "full_name": "Lord Patrick Fetherstonhaugh",
           "birth_year": 1973,
+          "honour": "Peer of the Realm since 2009",
           "spouse": {
             "full_name": "Lady Caroline Fetherstonhaugh",
-            "title": "Princess Mayford(1973-1996)",
             "house_name": "House Mayford of Arclowen(Royal)",
-            "honour": "Her Serene Highness (Princess)",
+            "honour": "Princess (Her Serene Highness 1973-1996)",
             "note": "By marriage styled Caroline Fetherstonhaugh.",
             "birth_year": 1974
           },
@@ -134,6 +134,7 @@
           "full_name": "Lord Charles Hatherleigh",
           "birth_year": 1949,
           "title": "Earl of Claveron(since 2005)",
+          "honour": "Peer of the Realm since 2005",
           "spouse": {
             "full_name": "Lady Penelope Hatherleigh",
             "title": "Countess of Claveron(since 2005)",
@@ -165,7 +166,14 @@
         {
           "full_name": "Lord John Hector Wilcox",
           "birth_year": 1943,
-          "title": "Earl of Chandelaid(since 1988)"
+          "title": "Earl of Chandelaid(since 1988)",
+          "honour": "Peer of the Realm since 1975",
+          "spouse": {
+            "full_name": "Lady Lousie Wilcox",
+            "birth_year": 1946,
+            "title": "Countess of Chandelaid(since 1988)",
+            "note": "Swedish, Descendant of the house of Mecklenburg-Strelitz"
+          }
         },
         {
           "full_name": "Lady Helena Wilcox",
@@ -214,7 +222,7 @@
       ],
       "generation_2": [
         {
-          "full_name": "Lady Alexa Longfall",
+          "full_name": "Lady Alexa Hatherleigh",
           "birth_year": 1976,
           "spouse": {
             "full_name": "Lord Franklin Hatherleigh",
@@ -227,7 +235,8 @@
           "birth_year": 1974,
           "spouse": {
             "full_name": "Lady Jacqueline Longfall",
-            "birth_year": 1975
+            "birth_year": 1975,
+            "note": "American"
           }
         }
       ],
@@ -243,11 +252,12 @@
         {
           "full_name": "King Louis IV",
           "birth_year": 1945,
-          "title": "King Louis IV(1982-2025); Grand duke of Valemont(2025-)",
+          "title": "King Louis IV(1982-2025)\nGrand duke of Valemont(2025-)",
           "spouse": {
             "full_name": "Princess Eleanora of Valemont",
             "birth_year": 1945,
-            "title": "Grand duchess"
+            "title": "Grand duchess",
+            "note": "Descendant of the House of Oldenburg"
           }
         },
         {
@@ -275,7 +285,8 @@
             "full_name": "Lord Alec Montford",
             "birth_year": 1978,
             "title": "Earl of Anson",
-            "house_name": "House Montfort of Anson"
+            "house_name": "House Montfort of Anson",
+            "honour":"Peer of the Realm"
           }
         }
       ],
@@ -286,9 +297,10 @@
             "birth_year": 1996,
             "title": "Crowned prince(since 2025)",
             "spouse": {
-              "full_name": "Princess Mary of the Marquesite of Gorgathorn",
+              "full_name": "Princess Mary of Valemont",
               "birth_year": 1997,
-              "title": "Princess consort(since 2023)\nCrowned Princess consort(since 2025)"
+              "title": "Princess consort(since 2023)\nCrowned Princess consort(since 2025)",
+              "notes": "House Gorgathorn of Windleton(Marquesite)"
             }
           },
           {
@@ -326,7 +338,9 @@
           "title": "Earl of Brackenmere(since 2009)",
           "spouse": {
             "full_name": "Lady Seraphina Harrington",
-            "birth_year": 1980
+            "birth_year": 1980,
+            "title": "Countess of Brackenmere(since 2009)",
+            "note": "American"
           }
         }
       ],
@@ -473,7 +487,8 @@
             "birth_year": 2004,
             "spouse": {
               "full_name": "Lady Sabina Conville",
-              "birth_year": 2004
+              "birth_year": 2004,
+              "note": "Monégasques"
             }
           }
         ],
