@@ -192,7 +192,8 @@
           "birth_year": 1970,
           "spouse": {
             "full_name": "Lady Georgiana Wilcox",
-            "birth_year": 1972
+            "birth_year": 1972,
+            "note": "American"
           }
         }
       ],
@@ -220,16 +221,7 @@
           }
         }
       ],
-      "generation_2": [
-        {
-          "full_name": "Lady Alexa Hatherleigh",
-          "birth_year": 1976,
-          "spouse": {
-            "full_name": "Lord Franklin Hatherleigh",
-            "birth_year": 1975
-          },
-          "marriage_note": "Same couple as Hatherleigh Generation 2"
-        },
+      "generation_2": 
         {
           "full_name": "Lord Vincent Longfall",
           "birth_year": 1974,
@@ -238,8 +230,7 @@
             "birth_year": 1975,
             "note": "American"
           }
-        }
-      ],
+        },
      "generation_3": [
         {
           "full_name": "Lord Alfred Longfall",
@@ -264,7 +255,7 @@
           "full_name": "Prince Sumulton of Valemont",
           "birth_year": 1949,
           "death_year": 2025,
-          "title": "Prince Sumulton(1949-2025)\nDuke of Chesterfield(1990-2025)"
+          "title": "Prince Royal(1949-2025)\nDuke of Chesterfield(1990-2025)"
         }
       ],
       "generation_2": [
@@ -300,13 +291,13 @@
               "full_name": "Princess Mary of Valemont",
               "birth_year": 1997,
               "title": "Princess consort(since 2023)\nCrowned Princess consort(since 2025)",
-              "notes": "House Gorgathorn of Windleton(Marquesite)"
+              "note": "House Gorgathorn of Windleton(Marquesite)"
             }
           },
           {
             "full_name": "Prince Adelford of Valemont",
             "birth_year": 2000,
-            "Title": "Prince Royal"
+            "title": "Prince Royal"
           }
         ],
         "Princess_Grainger_branch": [
