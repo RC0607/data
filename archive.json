@@ -24,10 +24,9 @@
         {
             "id": 1,
             "src": "",
-            "caption": "",
-            "date": "",
-            "refNumber": "",
-            "location": ""
+            "caption": "This is an image",
+            "date": "2025-06-25",
+            "location": "Gravenshill Hall, Winchelsea Beach"
         }
     ]
 }
